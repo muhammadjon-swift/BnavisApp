@@ -4,8 +4,6 @@ Core Data
 
 <h1>Descrption</h1>
 Simple IOS notes app made using StoryBoard, UIKit and CoreData
-<img src="https://user-images.githubusercontent.com/22303129/177269471-c7a5aa3b-f2c5-4330-8caf-e83b83d2b6f7.gif
-" alt="App"/>
 
 
 <h1>Usage</h1>
