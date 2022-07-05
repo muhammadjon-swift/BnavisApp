@@ -4,7 +4,7 @@ Core Data
 
 <h1>Descrption</h1>
 Simple IOS notes app made using StoryBoard, UIKit and CoreData
-https://github.com/theTopG/BnavisApp/blob/master/ezgif.com-gif-maker.gif
+![Ting](https://github.com/theTopG/BnavisApp/blob/master/ezgif.com-gif-maker.gif)
 
 
 <h1>Usage</h1>
