@@ -1,6 +1,5 @@
 # BnavisApp
 BnavisApp - A Note-taking app
-Core Data
 
 <h1>Descrption</h1>
 Simple IOS notes app made using StoryBoard, UIKit and CoreData
