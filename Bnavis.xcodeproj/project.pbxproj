@@ -43,6 +43,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		703D41B6288AC6F20017CE20 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				7042D1DF28715C39005FEB94 /* Bnavis.xcdatamodeld */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		703D41B7288AC7070017CE20 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				70DC67F828677D7600C6A77B /* Main.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		703D41B8288AC7210017CE20 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				70DC67F628677D7600C6A77B /* ListNotesViewController.swift */,
+				70DC680928681F5200C6A77B /* NoteViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
 		70DC67E628677D7600C6A77B = {
 			isa = PBXGroup;
 			children = (
@@ -64,39 +89,14 @@
 			children = (
 				70DC67F228677D7600C6A77B /* AppDelegate.swift */,
 				70DC67F428677D7600C6A77B /* SceneDelegate.swift */,
-				70DC68112868351A00C6A77B /* Model */,
-				70DC6810286834FD00C6A77B /* View */,
-				70DC680E286834AE00C6A77B /* Controllers */,
+				703D41B6288AC6F20017CE20 /* Model */,
+				703D41B7288AC7070017CE20 /* View */,
+				703D41B8288AC7210017CE20 /* Controllers */,
 				70DC67FE28677D7800C6A77B /* Assets.xcassets */,
 				70DC680028677D7800C6A77B /* LaunchScreen.storyboard */,
 				70DC680328677D7800C6A77B /* Info.plist */,
 			);
 			path = Bnavis;
-			sourceTree = "<group>";
-		};
-		70DC680E286834AE00C6A77B /* Controllers */ = {
-			isa = PBXGroup;
-			children = (
-				70DC67F628677D7600C6A77B /* ListNotesViewController.swift */,
-				70DC680928681F5200C6A77B /* NoteViewController.swift */,
-			);
-			name = Controllers;
-			sourceTree = "<group>";
-		};
-		70DC6810286834FD00C6A77B /* View */ = {
-			isa = PBXGroup;
-			children = (
-				70DC67F828677D7600C6A77B /* Main.storyboard */,
-			);
-			name = View;
-			sourceTree = "<group>";
-		};
-		70DC68112868351A00C6A77B /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				7042D1DF28715C39005FEB94 /* Bnavis.xcdatamodeld */,
-			);
-			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
